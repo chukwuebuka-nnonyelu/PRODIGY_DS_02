@@ -18,4 +18,4 @@ This project examines the dataset of layoffs between 2020 and 2023, focusing on 
 - The original dataset can be found in one of AlexTheAnalyst github repos [here](https://github.com/AlexTheAnalyst/MySQL-YouTube-Series/blob/main/layoffs.csv)
 - Removed duplicates and handled missing data to ensure data quality.
 - Analyzed key metrics using Excel pivot tables.
-- The pivot tables which.
+- The pivot tables [EDA1](https://github.com/chukwuebuka-nnonyelu/PRODIGY_DS_02/blob/main/EDA1.xlsx) and [EDA2](https://github.com/chukwuebuka-nnonyelu/PRODIGY_DS_02/blob/main/EDA2.xlsx) show the Eploratory Data Analysis.
